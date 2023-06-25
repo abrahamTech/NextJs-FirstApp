@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Creating the proyect
+First, create a new NextJs app 
+
+```bash 
+npx create-next-app@latest
+```
+
 ## Getting Started
 
 First, run the development server:
