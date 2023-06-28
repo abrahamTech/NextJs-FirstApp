@@ -42,3 +42,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## API Page for Users Info
 Link: [`Reqres](https://reqres.in/).
+
+## Adding Style
+I add an alternative form of Bootstrap calling Bootswatch
+Link: https://bootswatch.com/
+
+I will use Flatly version (You need to right click on the download button and click open in a new tab)
+
+Link: https://bootswatch.com/5/flatly/bootstrap.min.css
+
+Note: 
+You need to add head label on "layout" fileyt
